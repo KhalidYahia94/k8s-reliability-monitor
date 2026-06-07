@@ -1,1 +1,9 @@
+services:
+  - name: google
+    url: https://www.google.com
 
+  - name: github
+    url: https://www.github.com
+
+  - name: invalid-service
+    url: https://this-does-not-exist-12345.com
